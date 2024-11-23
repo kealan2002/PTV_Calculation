@@ -1,5 +1,5 @@
 # My program assumes the tumour is spherical to simplify the calculations. 
-
+# all margins are isotropic, so sites such as oesophagus and lung are less suited here.
 import math
 
 def calculate_radius(volume):
